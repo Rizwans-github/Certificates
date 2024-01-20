@@ -1,6 +1,6 @@
 ```python
 Hi! I am on a journey to become a Data Analyst.
-Through certifications in Python, Tableau, R, and SQL,
+Through certifications in Python, SQL, Tableau, and R,
 I've acquired skills in data manipulation and analysis.
 The goal is to bring data to life and make it meaningful.
 This portfolio is a snapshot of my progress.
